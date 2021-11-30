@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning programing
-- 
+🌱 I’m currently learning programing
+
 <!--
 **Shubban478/shubban478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
